@@ -1,0 +1,19 @@
+The Java Multithreading quest introduces students to the secret CodeGym center with multithreading.
+Over the course of 10 levels , you will study the organization of Object, String, and inner classes.
+You will learn how to create and stop threads, what deadlock is, and what the wait, notify, and notifyAll methods do.
+You'll gain experience working with jsoup and Swing, and learn about autopacking and the particulars of its implementation.
+On this quest, you will create your first mini-projects, which are big tasks.
+To facilitate learning, they are divided into stages.
+You need to will write a few games: Tetris, Snake, a space shooter, and Arkanoid.
+You will also work on serious tasks with multiple stages, such as a chat system, ATM emulator and even a web scraper!
+
+Level 1 Organization of an Object object: equals, hashCode, clone, wait, notify, toString()
+Level 2 String: mutable, immutable, format, StringTokenizer, StringBuilder, StringBuffer
+Level 3 Inner classes, e.g. Map.Entry
+Level 4 Inner classes, implementation features
+Level 5 Creating and stopping threads: start, interrupt, sleep, yield
+Level 6 Accessing shared data: synchronized, volatile
+Level 7 Deadlock. Wait, notify, notifyAll
+Level 8 TreadGroup, ThreadLocal, Executor, ExecutorService, Callable. Working with jsoup
+Level 9 Autoboxing, implementation features
+Level 10 Operators: numeric, logical and binary. Working with Swing

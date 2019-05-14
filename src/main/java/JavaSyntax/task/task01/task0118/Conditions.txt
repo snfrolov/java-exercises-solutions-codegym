@@ -1,0 +1,9 @@
+Comment out the superfluous
+Comment out some code so that "sum = 12" appears on the screen.
+
+
+Requirements:
+1. The program should display text.
+2. You need to comment out the necessary lines and leave the remaining lines unchanged.
+3. Don't add new lines to the program, and don't delete existing lines.
+4. The displayed text must match the task conditions.
