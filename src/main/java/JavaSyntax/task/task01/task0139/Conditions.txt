@@ -1,0 +1,14 @@
+Kiss my shiny metal rear actuator
+- "Amigo, you want to be a programmer?"
+- "Absolutely!"
+- "Then quickly write a program that displays the phrase "Hello World!"
+- "But... that seems so ordinary!"
+-"Exactly. Amigo, your thinking matches mine, and that's great. Let's do this instead: display a phrase that we, as robots, should repeat in times of uncertainty. Namely, "Kiss my shiny metal rear actuator!"
+
+
+Requirements:
+1. The program should output text.
+2. The text should begin with "Kiss".
+3. The text must end with an exclamation point.
+4. The text should consist of 34 characters, including spaces and an exclamation point.
+5. The displayed text must match the task conditions.

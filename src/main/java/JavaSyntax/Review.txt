@@ -1,0 +1,22 @@
+The Java Syntax quest was developed at the secret CodeGym center.
+It consists of 10 levels devoted to the fundamentals of the Java language.
+It can be mastered even by someone who has never programmed before.
+You will learn about classes, objects, methods, and variables.
+You will study basic data types, arrays, conditional statements, and loops.
+Take a quick look at collections and OOP basics (a serious study of these topics will begin in Quest 4), and start working in IntelliJ IDEA, a popular development environment used by programmers all over the world!
+
+But most importantly, you will complete a lot of tasks.
+Tasks play a central role at CodeGym.
+And virtual mentors will help you deal with mistakes (Your solutions are checked instantly).
+
+Level 0 Introduction
+Level 1 Introduction to Java: screen output, String and int types
+Level 2 Introduction to Java: variables, methods, classes
+Level 3 Your first program: keyboard input, working in the IDE
+Level 4 Introduction to branches and loops
+Level 5 Introduction to classes: writing your own classes, constructors
+Level 6 Introduction to objects: writing your own objects, lifetime, static variables
+Level 7 Arrays and lists: Array, ArrayList, Introduction to generics
+Level 8 Collections: LinkedList, HashSet, HashMap. Date.
+Level 9 Introduction to exceptions: try, catch, throws, multi-catch
+Level 10 Converting primitive types: widening and narrowing conversions

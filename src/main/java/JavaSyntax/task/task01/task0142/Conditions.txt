@@ -1,0 +1,13 @@
+Amigo is very smart
+Write a program that displays: "Amigo is very smart".
+
+Example output:
+Amigo is very smart
+
+
+Requirements:
+1. The program should output text.
+2. The text should begin with "Amigo".
+3. The text should end with "smart".
+4. The text should consist of 19 characters, including spaces.
+5. The displayed text must match the task conditions.

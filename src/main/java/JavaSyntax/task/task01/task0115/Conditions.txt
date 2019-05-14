@@ -1,0 +1,9 @@
+Uh... Happy New Year!
+Remove comments from part of the code so that "Happy New Year" appears on the screen.
+
+
+Requirements:
+1. The program should display text.
+2. You need to uncomment some lines. Don't change anything else.
+3. Don't add new lines to the program, and don't delete existing lines.
+4. The displayed text must match the task conditions.

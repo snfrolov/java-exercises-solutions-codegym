@@ -1,0 +1,14 @@
+«The Java Core» quest is intended for those who have already received basic Java training (by completing CodeGym's Java Syntax quest).
+Here you have to pass 10 fascinating levels where you will learn the basics of OOP, get acquainted with streams, serialization, and method overloading, and you'll learn a lot about interfaces and multiple inheritance.
+The training is no longer as simple as the «Java Syntax» quest, but regular practice (by completing tasks) will help you pass all 10 levels in this quest, and you'll be ready to complete mini-projects in the near future.
+
+Level 1 Basics of OOP: basic principles, inheritance, encapsulation
+Level 2 Basics of OOP: overloading, polymorphism, abstraction, interfaces
+Level 3 Interfaces: comparison with an abstract class, multiple inheritance
+Level 4 Type casting, instanceof. A big task involving interfaces
+Level 5 Overloading methods, a feature of constructor calls
+Level 6 Introduction to threads: Thread, Runnable, start, join, interrupt, sleep
+Level 7 Introduction to threads: synchronized, volatile, yield
+Level 8 Introduction to streams: InputStream/OutputStream, FileInputStream, FileOutputStream
+Level 9 Introduction to streams: Reader/Writer, FileReader/FileWriter
+Level 10 Serialization

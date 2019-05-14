@@ -1,0 +1,22 @@
+The Java Collections quest is dedicated to an in-depth study of Java collections and more.
+We'll talk about how to work with files and archives.
+We'll discuss what design patterns are and how to use them.
+You'll get experience working with JSON, Guava, Apache Commons Collections, and JUnit.
+You'll learn the details of garbage collection in Java.
+In addition to the advanced components of Core, you will get acquainted with tools needed by any modern software developer.
+Learn about Git and JAXB, RMI and DymamicProxy.
+And we'll touch on another important programming language — JavaScript.
+On this quest, you will create mini-projects, which are big tasks.
+To facilitate learning, they are divided into stages.
+
+Level 1 Working with files and archives
+Level 2 RMI and dynamic proxy. Working with Swing
+Level 3 JSON, JavaScript. Working with Guava, Apache Commons Collections, JUnit
+Level 4 Recursion. Garbage collection and types of reference in Java. Logging
+Level 5 Version control systems: Git and SVN. Generics
+Level 6 Basic patterns for creating web applications. In-depth study of collections
+Level 7 Design patterns. Utility classes, e.g. Arrays. Collections
+Level 8 Development methodologies. Annotations in Java. Exception hierarchy
+Level 9 Create your first web application. Working with Tomcat and IDEA
+Level 10 URI, URL. REST services. Create your own client-server application
+Level 11 You passed the course!

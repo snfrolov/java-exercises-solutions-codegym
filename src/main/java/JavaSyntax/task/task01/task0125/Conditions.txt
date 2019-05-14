@@ -1,0 +1,9 @@
+The great purge
+Declare the missing variables and comment out those that are not used anywhere.
+
+
+Requirements:
+1. The program should display text.
+2. Four variables must be declared.
+3. You need to comment out the unused variables.
+4. The program's output should not change.

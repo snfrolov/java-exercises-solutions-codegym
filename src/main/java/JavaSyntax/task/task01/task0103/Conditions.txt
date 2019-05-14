@@ -1,0 +1,10 @@
+My young friend
+It's currently 3126. My friend was born 8 years ago.
+Write a program that displays my friend's birth year.
+
+
+Requirements:
+1. The program should output text.
+2. The displayed year must consist of 4 digits.
+3. The displayed year should begin with "31".
+4. The displayed year must match the task conditions.
