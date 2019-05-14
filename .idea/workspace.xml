@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/akita" value="PREVIEW" />
+        <entry key="$USER_HOME$/akita-alfabank" value="PREVIEW" />
+        <entry key="$USER_HOME$/akita-testing-template" value="PREVIEW" />
+        <entry key="$USER_HOME$/bdd-security" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-catalogs-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-core-profiles-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-currency-exchange-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-currency-exchange-rates-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-dash-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-contract-card-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-contracts-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-afx-actual-rates-kafka-updater" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-afx-rate-history-kafka-updater" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-afx-rate-history-mongo-updater" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-afx-rates-kafka-loader" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-card-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-rate-history-exporter-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-exchange-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-spd-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ft-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-ftpayment-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-messages-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/corp-wowtax-ui-autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/cucumber-reporting-gradle-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/java-base-stepik-course" value="PREVIEW" />
+        <entry key="$USER_HOME$/java-introduction-hexlet" value="PREVIEW" />
+        <entry key="$USER_HOME$/karate-testing-template" value="PREVIEW" />
+        <entry key="$USER_HOME$/pdf-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/retail-debit-cards-order-ui/autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/retail-insurance-sale-ui/autotests" value="PREVIEW" />
+        <entry key="$USER_HOME$/selenide" value="PREVIEW" />
+        <entry key="$USER_HOME$/test/bdd-security" value="PREVIEW" />
+        <entry key="$USER_HOME$/thrift-api-model" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
